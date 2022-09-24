@@ -4,7 +4,9 @@ Hi 👋 My name is Mariana Marmolejo
 Technical Support Specialist
 ----------------------------
 
-I have a Bachelors in Mechatronics Engineering. I was introduced to coding in 9th grade and I haven't stopped since. I decided to change careers this year (2022) after being tired of regretting my decision of not choosing the Computer Science education. I've decided to take ownership of my future self by doing something I enjoy.
+I have a Bachelors in Mechatronics Engineering and I was introduced to coding in 9th grade.
+I decided to change careers this year (2022) after regretting my decision not to go down the Computer Science path for years.
+I am taking ownership of my future self and life by doing something I love today. It's never too late to start!
 
 * 🌍  I'm based in Torreon, MX
 * ✉️  You can contact me at [marianamarmolejom@gmail.com](mailto:marianamarmolejom@gmail.com)
